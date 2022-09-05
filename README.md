@@ -1,3 +1,9 @@
+App en la que se utiliza pokeApi para la extracción de data y despliegue de resultados.
+Se pueden observar la mayoría de la información de los 25 primeros pokemon, junto con sus evoluciones.
+
+Deploy: https://pokeapiapp-keiron.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
